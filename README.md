@@ -6,15 +6,7 @@ Snickers is a real German Shepherd who lives at the bottom of your screen. Look 
 
 He's gentle by design: he never gets sick. If you forget him he gets a bit mopey, and he forgives you as soon as you look after him again.
 
-## Choose your pet
-
-| Pet | Style |
-|---|---|
-| **Snickers**, German Shepherd | Real: video of the real Snickers |
-| **Luna**, Husky | 3D animated |
-| **Mochi**, Shiba Inu | 3D animated |
-
-Switch any time in **Settings → Profile**, and rename your pet there too. More pets, including realistic breeds and cats, are coming.
+You can rename him in **Settings → Profile**. More realistic breeds, and cats, are on the way.
 
 ## Download
 
@@ -84,5 +76,3 @@ If you joined the leaderboard, leave it first (Leaders tab → Leave and delete 
 ## About Snickers
 
 Snickers plays himself. His video clips were generated from photos of the real Snickers, cut out on a Mac, and that's his own real bark.
-
-The 3D pets are by [Quaternius](https://quaternius.com) (CC0) and are drawn with [three.js](https://threejs.org) (MIT).
