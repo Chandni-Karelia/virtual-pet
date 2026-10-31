@@ -6,6 +6,16 @@ Snickers is a real German Shepherd who lives at the bottom of your screen. Look 
 
 He's gentle by design: he never gets sick. If you forget him he gets a bit mopey, and he forgives you as soon as you look after him again.
 
+## Choose your pet
+
+| Pet | Style |
+|---|---|
+| **Snickers**, German Shepherd | Real: video of the real Snickers |
+| **Luna**, Husky | 3D animated |
+| **Mochi**, Shiba Inu | 3D animated |
+
+Switch any time in **Settings → Profile**, and rename your pet there too. More pets, including realistic breeds and cats, are coming.
+
 ## Download
 
 | | |
@@ -44,6 +54,7 @@ When something runs low he comes over and asks, with one-tap answers like **Feed
 - **Talk to him:** press **⌥⌘D** anywhere and type, for example "sit", "fetch", "walk", "remind me to stretch in 20 min" or "alarm 7:30".
 - **Need quiet?** Say "bye" or click the moon on the quick bar. He asks when to come back (15 minutes, 1 hour, 3 hours, or when you call) and returns by himself.
 - **Going away?** Turn on **Vacation mode** and a pet sitter takes over.
+- **Settings** (paw menu → Settings…, or ⌘,): meal reminders at your own breakfast, lunch and dinner times, start at login, sounds, stretch-break visits, size and more.
 
 ## Your Pet Parent Score
 
@@ -54,16 +65,24 @@ Open **Care & score** from the quick bar or the paw menu to see:
 - **Your week** at a glance.
 - **Badges** to earn, such as First Walk, Fetch Champion, Hydration Hero and 30-Day Streak, each showing your progress.
 
-Looking after him on time scores more than doing it late, and spam-clicking doesn't count.
+Scoring is fair but not easy: looking after him before he has to ask scores far more than reacting late, and spam-clicking doesn't count. Best in Show takes care every day.
+
+## Weekly leaderboard (optional)
+
+Open the **Leaders** tab in Care & score and join with a nickname to see how your pet parenting compares. Each day's score adds up to your weekly points, and the board resets every Monday. Add a **league code** to compete with friends or teammates who use the same code.
 
 ## Privacy
 
-Everything stays on your Mac. There's no account, no sign-up and no tracking. Your score, badges and settings are stored locally.
+Everything stays on your Mac unless you join the leaderboard. There's no sign-up and no tracking, and your score, badges and settings are stored locally.
+
+The leaderboard is optional. If you join, only your nickname, your pet's name and breed, your daily scores and your badges are shared, with no email and no account details. You can leave at any time from the Leaders tab, which deletes everything you shared.
 
 ## Uninstall
 
-Quit Snickers from the paw menu, then move it from Applications to the Bin. To also remove his saved progress, delete the folder `~/Library/WebKit/local.snickers.desktopdog`.
+If you joined the leaderboard, leave it first (Leaders tab → Leave and delete my data). Then quit Snickers from the paw menu and move it from Applications to the Bin. To also remove his saved progress, delete the folder `~/Library/WebKit/local.snickers.desktopdog`.
 
 ## About Snickers
 
 Snickers plays himself. His video clips were generated from photos of the real Snickers, cut out on a Mac, and that's his own real bark.
+
+The 3D pets are by [Quaternius](https://quaternius.com) (CC0) and are drawn with [three.js](https://threejs.org) (MIT).
